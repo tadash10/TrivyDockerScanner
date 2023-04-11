@@ -1,0 +1,30 @@
+.gitignore
+Python
+
+pycache/
+*.py[cod]
+Dependency directories
+
+env/
+venv/
+virtualenv/
+node_modules/
+Build artifacts
+
+dist/
+build/
+*.egg-info/
+Output files
+
+*.pyz
+*.pyzw
+IDE files
+
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+Miscellaneous
+
+*.DS_Store
+Thumbs.db
